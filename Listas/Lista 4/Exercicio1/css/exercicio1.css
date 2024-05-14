@@ -1,0 +1,67 @@
+.quadradosColoridos {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.DIV1{
+    background-color: #00a3ff;
+    width: 50%;
+    height: 50%;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.DIV1 h3{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.DIV2{
+    background-color:#a3a2ff;
+    width: 50%;
+    height: 50%;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.DIV2 h3{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.DIV3{
+    background-color:#ffb4ff;
+    width: 50%;
+    height: 50%;
+    display:flex;
+    
+    flex-direction: row;
+    justify-content:center;
+    align-items:center;
+
+   
+   
+
+}
+.DIV3 h3{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.DIV4 {
+    background-color:#ffd7ff;
+    width: 50%;
+    height: 50%;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+.DIV4 h3{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
