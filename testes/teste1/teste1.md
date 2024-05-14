@@ -12,4 +12,4 @@
 
 7. Quando o item se repete, ele se torna um ID e quando ele compartilha o mesmo código, ela é uma class.
 
-8. class: #nomedaclass // id: #nomedoID
+8. class: .nomedaclass // id: #nomedoID
