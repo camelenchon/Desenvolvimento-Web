@@ -15,11 +15,12 @@ O CSS Flexible Box Layout, conhecido como Flexbox, é um modelo de layout da Web
 
 ### display
 quando usa o display FLEX
-o flex direction está row
-o justify content é o eixo X e o align center é o eixo Y
+o flex direction quando ROW, por padrão o justify content: X e o align-items: Y
+o flex direction quando COLUMN, por padrão: justify-content: Y e o align-items: X
 
-flex direction esta column é um embaixo do outro
-o justify content é o Y e o align center é o X
+
+flex direction esta column é um embaixo do outro e o row é um do lado do outro
+
 
 
 
