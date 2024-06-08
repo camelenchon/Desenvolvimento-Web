@@ -1,0 +1,33 @@
+
+
+#conteudo-Principal {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+
+.conteudo-Produto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+.conteudo-Produto h2{
+    font-size: 16px;
+
+}
+.conteudo-Produto p{
+    font-size: 16px;
+}
+
+.btb{
+    display: flex;
+
+}
