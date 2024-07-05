@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS e animações</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <img class="imagem-astronauta" src="https://img.freepik.com/vetores-gratis/bonito-astronauta-pegando-ilustracao-do-icone-do-vetor-dos-desenhos-animados-da-estrela-icone-de-tecnologia-de-ciencia-isolado-plano_138676-7575.jpg?size=338&ext=jpg&ga=GA1.1.1546980028.1719532800&semt=sph">
+    <button id="btn-login"> Login </button>
+</body>
+
+<script>
+    let botao = document.getElementById('btn-login')
+
+    botao.addEventListener('click', ()=>{
+        botao.classList.add('anima-botao')
+
+        setTimeout(() =>{
+            botao.classList.add('anima-botao')
+        }, 400);
+    })
+</script>
+</html>
